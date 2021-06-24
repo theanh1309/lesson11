@@ -1,0 +1,21 @@
+#hop{
+    width: 300px;
+    height:300px;
+    border: 1px solid black;
+    /* margin: auto; */
+}
+.dong{
+    width: 300px;
+    height:100px;
+}
+.xam{
+    width: 100px;
+    height:100px;
+    float: left;
+    background-color: gray;
+}
+.trang{
+    width: 100px;
+    height:100px;
+    float: left;
+}
